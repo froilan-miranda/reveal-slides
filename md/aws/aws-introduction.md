@@ -36,7 +36,7 @@ As simple as pooling your stuff together for your own access, private cloud
 * Software as Service (SaaS) - Complete Product run by the service provider. End-user applications (web email, office 365, salesforce)
 
 -
-_
+-
 # Serverless Computing
 
 * Build and run applications & services without thinking about servers
@@ -50,8 +50,8 @@ _
 * Amazon DynamoDB
 * Amazon SNS
 
-_
-_
+-
+-
 # Deployment Models
 
 * Cloud
@@ -87,8 +87,8 @@ Aws.amazon.com
 * Region tab
 * Billing
 
-_
-_
+-
+-
 # Demo
 
 * S3
