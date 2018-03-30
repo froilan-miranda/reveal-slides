@@ -8,7 +8,9 @@
 
 - `equals(Object o)` checks equality between this object and Object `o`
 - Default implementation returns true only if this object *IS* Object `o`
+<!---
 - Mutable objects should keep default implementation, immutable objects may override
+--->
 - Overriding `equals` is [dangerous and tricky](http://www.artima.com/lejava/articles/equality.html)
 
 -
