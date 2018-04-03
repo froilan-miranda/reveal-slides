@@ -9,14 +9,16 @@
 
 -
 -
-## AWS Global Infrastructure (get image)
+## AWS Global Infrastructure
+
+![](./img/aws-availability.png "aws region zones")
 
 * 16 regions
-..* Optimise latency, cost, regulatory requirements
+ * Optimise latency, cost, regulatory requirements
 * 42 Availability Zones
-..* Protect from failures in other zones
+ * Protect from failures in other zones
 * 50 edge locations
-..* Cloudfront distributions CDN
+ * Cloudfront distributions CDN
 
 -
 -
@@ -78,6 +80,10 @@ Aws.amazon.com
 
 * Remember to check the availability to a service before choosing a region
 * http://aws.amazon.com/about-aws/global-infrastructure/regional-services
+
+-
+## Other cloud service providers
+(list them here)
 
 -
 -
