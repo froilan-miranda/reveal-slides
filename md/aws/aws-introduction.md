@@ -11,14 +11,16 @@
 -
 ## AWS Global Infrastructure
 
-![](./img/aws-availability.png "aws region zones")
-
 * 16 regions
  * Optimise latency, cost, regulatory requirements
 * 42 Availability Zones
  * Protect from failures in other zones
 * 50 edge locations
  * Cloudfront distributions CDN
+
+-
+
+![](./img/aws-availability.png "aws region zones")
 
 -
 -
@@ -31,10 +33,15 @@ The practice of using a network of remote servers hosted on the Internet to stor
 As simple as pooling your stuff together for your own access, private cloud
 
 -
+![](./img/Cloud_computing.png "cloud computing")
+
+-
 ## Cloud Computing Models
 
 * Infrastructure as a Service (IaaS) - basic building blocks for cloud IT (VPC, EC2, EBS)
+
 * Platform as a Service (PaaS) - AWS manages the underlying infrastructure (hardware and OS - RDS)
+
 * Software as Service (SaaS) - Complete Product run by the service provider. End-user applications (web email, office 365, salesforce)
 
 -
@@ -83,7 +90,12 @@ Aws.amazon.com
 
 -
 ## Other cloud service providers
-(list them here)
+
+* Microsoft Azure
+
+* IBM Bluemix
+
+* heroku
 
 -
 -
