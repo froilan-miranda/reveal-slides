@@ -24,7 +24,7 @@
 
 -
 -
-# What is cloud computing? (image, maybe)
+# What is cloud computing?
 
 -
 The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer
